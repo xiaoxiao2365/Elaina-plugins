@@ -13,7 +13,7 @@
     "name": "API调用器",
     "author": "洛",
     "description": "可视化API调用插件，支持指令触发、链式请求、条件响应解析",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "category": "工具",
     "github": "https://github.com/xiaoxiao2365/ElainaBot-api",
     "branch": "main",
